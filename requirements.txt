@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+requests
+beautifulsoup4
+google-play-scraper
+ydata-profiling
+jupyter
+notebook
